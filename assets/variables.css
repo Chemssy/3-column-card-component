@@ -1,0 +1,19 @@
+@import url(/assets/fonts/fonts.css);
+:root{
+    --White        : #FFF;
+    --Black        : #000;
+
+    --Gray-100     : #F2F2F2;
+
+    --Green-500    : #19B89D;
+    --Green-950    : #004140;
+
+    --Cyan-500     : #26B5C0;
+    --Cyan-800     : #006971;
+
+    --Gold-200     : #FFD473;
+    --Gold-500     : #E28625;
+
+    --BigShoulders-bold : 'Big Shoulders', sans-serif;
+    --LexendDeca-regular: 'Lexend Deca', sans-serif;
+}
